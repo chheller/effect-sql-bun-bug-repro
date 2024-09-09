@@ -1,0 +1,1 @@
+{ "dependencies": { "@effect/schema": "0.72.3", "@effect/sql": "0.11.0", "effect": "3.7.2" } }
